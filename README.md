@@ -1,216 +1,246 @@
 ---
 
-# 🎓 **AI Applications Portfolio Assignment**
+# 🌟 **AI Applications Portfolio Assignment**
 
 ### **By: Williane Yarro**
 
 ### **Houston Community College (HCC)**
 
----
-
-<div align="center">
-
-## 🌟 *Welcome to My AI Applications Portfolio*
-
-A complete showcase of my work in **Python**, **Data Analysis**, and **Applied AI**
+### *Complete Portfolio of All Assignments, Python Modules, & Machine Learning Project*
 
 ---
 
-### 🔗 **GitHub Repository Link**
+## 👋 **About Me**
 
-**[https://github.com/joelleyarro03/AI-Applications-Portfolio-](https://github.com/joelleyarro03/AI-Applications-Portfolio-)**
+My name is **Williane Yarro**, and this is my official portfolio for the **AI Applications (ITAI 2277)** course at Houston Community College. This GitHub repository documents *everything* I learned and completed throughout the semester, from Python fundamentals to a full end-to-end Machine Learning project.
 
-</div>
+This portfolio is designed to be:
 
----
-
-# 📚 **Table of Contents**
-
-1. About Me
-2. Assignment Overview
-3. What This Portfolio Includes
-4. Key Learnings
-5. Module & Assignment Highlights
-6. Repository Structure
-7. Skills Demonstrated
-8. Tools & Technologies
-9. Future Improvements
-10. Contact
+* A professional record of my assignments
+* A showcase of my technical growth
+* Evidence of hands-on Python, AI, and data analysis skills
+* A resource I can share with future instructors or employers
 
 ---
 
-# 👩‍🎓 **About Me**
+# 📘 **Table of Contents**
 
-Hello! My name is **Williane Yarro**, and this repository is my official **AI Applications Portfolio** for Houston Community College.
-
-This portfolio captures everything I learned in this course, from early Python exercises to full applied AI mini-projects. It demonstrates not only my technical growth, but also my ability to organize, document, and present professional AI-related work.
-
-My long-term goal is to continue building AI skills that will support future academic, professional, and project opportunities.
-
----
-
-# 📌 **Assignment Overview**
-
-The **AI Applications Portfolio Assignment** required me to:
-
-### ✔ Build a GitHub repository
-
-Organized with all class modules, assignments, and AI mini-projects.
-
-### ✔ Prepare a 5-slide employer-ready presentation
-
-Summarizing my skills, highlights, and projects.
-
-### ✔ Include course notes
-
-To demonstrate concept understanding.
-
-### ✔ Add resource links
-
-Used throughout the semester.
-
-### ✔ Add explanations for every module
-
-So each assignment is clear and meaningful to employers or instructors.
-
-This portfolio is both a **course requirement** and a **professional portfolio** I can continue to grow.
+1. Course Overview](#course-overview)
+2. Assignments Included
+3. Python Module Summaries
+4. Major Machine Learning Project
+5. Key Learnings
+6. Tools & Technologies
+7. Repository Structure
+8. Contact
 
 ---
 
-# 🧩 **What This Portfolio Includes**
+# 📚 **Course Overview**
 
-### 🔹 **1. Course Assignments & Python Projects**
-
-Hands-on work covering:
-
-* File I/O
-* Strings
-* Async
-* HTTP/HTTPS
-* Databases
-* NumPy
-* pandas
-* Jupyter notebooks
-
----
-
-### 🔹**2. AI Concepts**
-
-Understanding:
-
-* Generative AI
-* Large Language Models
-* LLM task capabilities
-* Summarization
-* Sentiment analysis
-* Prompt-based mini-projects
-
----
-
-### 🔹 **3. Data Tutorials**
-
-Including:
-
-* Cleaning data
-* Loading structured/unstructured data
-* Performing EDA
-* Using DataFrames
-* Applying NumPy operations
-
----
-
-### 🔹 **4. Notes From Key Topics**
-
-Personal notes summarizing:
-
-* Python fundamentals
-* GenAI concepts
-* Data manipulation
-* Industry use cases
-* Core AI ideas
-
----
-
-### 🔹 **5. Final PowerPoint Presentation**
-
-A clean, employer-ready **5-slide deck** that includes:
-
-* My introduction
-* Course highlights
-* My top projects
-* Real AI applications
-* Contact & GitHub link
-
----
-
-# 🧠 **Key Learnings**
-
-Through this course, I gained strong abilities in:
+The AI Applications course covered:
 
 ### ✔ Python Programming
 
-Loops, functions, file handling, string processing, async tasks.
+### ✔ Data Preprocessing
 
-### ✔ Data Processing
+### ✔ Exploratory Data Analysis (EDA)
 
-Cleaning, filtering, transforming, merging, and analyzing data.
+### ✔ Machine Learning Workflows
 
-### ✔ NumPy & pandas
+### ✔ Generative AI & LLM Concepts
 
-Working with large datasets effectively.
+### ✔ Applied AI Mini-Projects
 
-### ✔ Understanding Generative AI
+### ✔ Technical Documentation
 
-Text generation, summarization, translation, and more.
+### ✔ Professional Presentation
 
-### ✔ Using AI Tools
-
-Exploring LLM capabilities and simple prompt engineering.
-
-### ✔ Documentation & Presentation
-
-Organizing work professionally and presenting it clearly.
 
 ---
 
-# 📘 **Module & Assignment Highlights**
+# 📁 **Assignments Included**
 
-### 📁 **Module 01 – Introduction to Generative AI**
+This portfolio includes **every assignment** From the Course
 
-* What AI is
-* LLM capabilities
-* Why AI matters for organizations
-* Real-world applications
-* Future of prompt engineering
+### 🔹 **Python Module Assignments**
+
+* **File I/O notebook**
+* **Strings notebook(s)**
+* **Async notebook**
+* **HTTP Tutorials notebook**
+* **Database Tutorials notebook**
+* **NumPy Tutorials notebook**
+* **Pandas DataFrames Tutorials notebook**
+
+### 🔹 **Machine Learning Project Components**
+
+* **Prediction Proposal** (PowerPoint)
+* **Student Performance – Week 7–10 Notebook**
+* **Explained Notebooks **
+* **Week 7–10 Explanation PDF**
+* **Full EDA notebooks**
+* **Final compiled documentation**
+* **Complete ML pipeline including:**
+
+  * Data cleaning
+  * Encoding
+  * EDA
+  * Train/validation/test split
+  * Model training
+  * Model comparison
+  * Evaluation metrics
+  * Confusion matrix
+  * Final explanation
 
 ---
 
-### 🐍 **Python Modules (00 – 07)**
+# 🐍 **Python Module Summaries**
 
-Each folder contains practical notebook exercises:
+### 📁 **Module: File I/O**
 
-* FileIO
-* Strings
-* Async
-* HTTP/HTTPS
-* Databases
+* Reading files (`read`, `readline`, loops)
+* Writing/appending files
+* Handling missing files
+* File modes (`r`, `w`, `a`, etc.)
+
+### 🧵 **Module: Strings**
+
+* Slicing, concatenation, formatting
+* Cleaning text
+* Basic NLP preparation
+
+### ⚡ **Module: Async**
+
+* Asynchronous tasks
+* Concurrency basics
+* Real-time process simulation
+
+### 🌐 **Module: HTTP Tutorials**
+
+* Fetching API data
+* Understanding how AI systems communicate
+
+### 🗄 **Module: Database Tutorials**
+
+* Reading/writing SQL tables
+* Basic querying
+* Connecting Python to DBs
+
+### **Module: NumPy**
+
+* Arrays, indexing, slicing
+* Mathematical operations
+* Vectorization
+
+### 🐼 **Module: pandas**
+
+* DataFrames
+* Merging + grouping
+* Cleaning datasets
+* Exploratory Data Analysis
+
+---
+
+# 🎓 **Major Machine Learning Project: Student Performance Prediction**
+
+### **📌 Week 3: Prediction Proposal**
+
+ `Prediction_Proposal_ITAI-2277_WillianeYarro.pptx`
+
+Includes:
+
+* Problem definition
+* Dataset selection
+* Project goals
+* ML approach
+* Expected outcomes
+
+---
+
+### **📌 Week 4–6: Data Pipeline & EDA**
+
+* Cleaned dataset
+* Checked null values
+* Outliers
+* Statistical summary
+* Heatmaps
+* Feature correlations
+* Categorical encoding
+* Train/validation/test split
+
+
+* Multiple PDF explanations
+* Multiple notebook versions
+* EDA + pipeline improvements
+
+---
+
+### **📌 Week 7–10: Model Development**
+
+* Logistic Regression
+* Random Forest
+* Gradient Boosting / XGBoost
+* Performance comparison
+* Accuracy, precision, recall
+* Confusion matrix
+* Model interpretation
+
+**Week 7–10 explained PDF** shows detailed reasoning.
+
+---
+
+### **📌 Week 11–13: Final Documentation**
+
+* Word doc explanation
+* Full PDF explanation
+* Final combined notebook
+* Summaries
+* Presentation slides
+
+This completes the **full ML development cycle**.
+
+---
+
+# 🔥 **Key Learnings**
+
+### ✔ Python fundamentals
+
+### ✔ Data cleaning + preprocessing
+
+### ✔ Statistical analysis
+
+### ✔ Creating visualizations (heatmaps, boxplots, distplots)
+
+### ✔ Machine learning modeling
+
+### ✔ Model evaluation
+
+### ✔ AI documentation
+
+### ✔ PowerPoint communication
+
+### ✔ Technical writing
+
+---
+
+# 🛠 **Tools & Technologies**
+
+* Python
 * NumPy
 * pandas
-
-These demonstrate hands-on learning and real coding practice.
-
----
-
-### 🤖 **Mini Applied AI Projects**
-
-* Text summarization
-* Sentiment analysis
-* Simple Python-based AI workflows
-* NLP-style mini tasks
+* scikit-learn
+* Matplotlib
+* Jupyter/Colab
+* GitHub
+* VS Code
+* PowerPoint
+* Markdown
+* AI conceptual tools
 
 ---
 
-## **Repository Structure**
+# 🗂 **Repository Structure**
 
 ```
 AI-Applications-Portfolio/
@@ -224,59 +254,17 @@ AI-Applications-Portfolio/
 │   ├── NumPy/
 │   ├── Pandas/
 │
-├── Projects/
-│   ├── Module01_GenAI/
-│   ├── Python_Tutorials/
-│   ├── MiniAI_Projects/
+├── Machine_Learning_Project/
+│   ├── Proposal/
+│   ├── EDA/
+│   ├── Week7-10_Modeling/
+│   ├── Final_Documentation/
+│   ├── PDFs/
 │
 ├── Notes/
-│   ├── AI_Concepts.md
-│   ├── Python_Basics.md
-│   ├── Data_Processing.md
-│
 ├── Resources/
 └── Presentation/
 ```
-
----
-
-# 💼 **Skills Demonstrated**
-
-* Python scripting
-* Data cleaning
-* Exploratory data analysis
-* Basic AI workflows
-* NumPy & pandas proficiency
-* Using APIs
-* Working with files & databases
-* Documentation writing
-* Presentation creation
-
----
-
-# 🛠 **Tools & Technologies**
-
-* Python
-* Jupyter Notebooks
-* Google Colab
-* NumPy
-* pandas
-* Markdown
-* Git & GitHub
-* Basic AI/GenAI tools
-
----
-
-# 🚀 **Future Improvements**
-
-I plan to grow this portfolio by adding:
-
-* More AI mini-projects
-* Machine learning models
-* Small NLP projects
-* Data dashboards
-* More visualizations
-* Extra notebooks
 
 ---
 
@@ -285,7 +273,7 @@ I plan to grow this portfolio by adding:
 * **Name:** Williane Yarro
 * **School:** Houston Community College
 * **GitHub:** [https://github.com/joelleyarro03/AI-Applications-Portfolio-](https://github.com/joelleyarro03/AI-Applications-Portfolio-)
-* **Email:** *(joelleyarro@yahoo.com.com)*
-
+* **Email:** *(joelleyarro@yahoo.com)*
+  
 ---
 
