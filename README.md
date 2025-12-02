@@ -1,6 +1,6 @@
 ---
 
-# 🌟 AI Applications Portfolio Assignment
+# 🎓 **AI Applications Portfolio Assignment**
 
 ### **By: Williane Yarro**
 
@@ -8,59 +8,81 @@
 
 ---
 
-## 👋 **About Me**
+<div align="center">
 
-My name is **Williane Yarro**, and this repository represents my complete portfolio for the **AI Applications course** at Houston Community College.
-This portfolio demonstrates my progress and learning in:
+## 🌟 *Welcome to My AI Applications Portfolio*
 
-* Python programming
-* Data analysis
-* Generative AI concepts
-* Applied AI techniques
-* Notebook-based development
-* AI Agent for the AI Agents Hackathon 
-* Organizing and presenting technical work professionally
-  
-This assignment is not only a course requirement — it is also the beginning of my **professional AI portfolio**.
+A complete showcase of my work in **Python**, **Data Analysis**, and **Applied AI**
+
+---
+
+### 🔗 **GitHub Repository Link**
+
+**[https://github.com/joelleyarro03/AI-Applications-Portfolio-](https://github.com/joelleyarro03/AI-Applications-Portfolio-)**
+
+</div>
+
+---
+
+# 📚 **Table of Contents**
+
+1. About Me
+2. Assignment Overview
+3. What This Portfolio Includes
+4. Key Learnings
+5. Module & Assignment Highlights
+6. Repository Structure
+7. Skills Demonstrated
+8. Tools & Technologies
+9. Future Improvements
+10. Contact
+
+---
+
+# 👩‍🎓 **About Me**
+
+Hello! My name is **Williane Yarro**, and this repository is my official **AI Applications Portfolio** for Houston Community College.
+
+This portfolio captures everything I learned in this course, from early Python exercises to full applied AI mini-projects. It demonstrates not only my technical growth, but also my ability to organize, document, and present professional AI-related work.
+
+My long-term goal is to continue building AI skills that will support future academic, professional, and project opportunities.
 
 ---
 
 # 📌 **Assignment Overview**
 
-The **AI Applications Portfolio Assignment** required me to create a **GitHub-based portfolio** that organizes and showcases all major work completed in the course.
+The **AI Applications Portfolio Assignment** required me to:
 
-This portfolio includes:
+### ✔ Build a GitHub repository
 
-### **1. A Fully Organized GitHub Repository**
+Organized with all class modules, assignments, and AI mini-projects.
 
-Containing:
+### ✔ Prepare a 5-slide employer-ready presentation
 
-* Course assignments
-* Module projects
-* Python notebooks
-* Data tutorials
-* My own notes
-* Helpful AI and Python resources
+Summarizing my skills, highlights, and projects.
 
----
+### ✔ Include course notes
 
-### **2. A 5-Slide Professional Presentation**
+To demonstrate concept understanding.
 
-Highlighting:
+### ✔ Add resource links
 
-* Who I am
-* What I learned
-* My key projects
-* Real-world applications
-* My Github link & contact info
+Used throughout the semester.
+
+### ✔ Add explanations for every module
+
+So each assignment is clear and meaningful to employers or instructors.
+
+This portfolio is both a **course requirement** and a **professional portfolio** I can continue to grow.
 
 ---
 
-### **3. Documentation of Skills Gained**
+# 🧩 **What This Portfolio Includes**
 
-Including:
+### 🔹 **1. Course Assignments & Python Projects**
 
-* Python fundamentals
+Hands-on work covering:
+
 * File I/O
 * Strings
 * Async
@@ -68,153 +90,127 @@ Including:
 * Databases
 * NumPy
 * pandas
+* Jupyter notebooks
+
+---
+
+### 🔹**2. AI Concepts**
+
+Understanding:
+
 * Generative AI
-* LLM uses & capabilities
-* Applied AI mini-projects
+* Large Language Models
+* LLM task capabilities
+* Summarization
+* Sentiment analysis
+* Prompt-based mini-projects
 
 ---
 
-### 4. Notes From Key Topics Covered
+### 🔹 **3. Data Tutorials**
 
-A dedicated section summarizing:
+Including:
 
-1. Class topics
-2. GenAI concepts
-3. Python logic
-4. Data manipulation
-5. Industry use cases
-6. Concepts I found important
-
----
-
-### 5. Links to Helpful Resources
-https://www.kaggle.com/code/gpreda/default-of-credit-card-clients-predictive-models
-https://www.kaggle.com/competitions/learn-ai-bbc
-
-Such as:
-
-* Python docs
-* NumPy/pandas references
-* YouTube tutorials
-* AI articles
-* References used in assignments
+* Cleaning data
+* Loading structured/unstructured data
+* Performing EDA
+* Using DataFrames
+* Applying NumPy operations
 
 ---
 
-**What This Portfolio Contains (Full Assignment Highlight)**
+### 🔹 **4. Notes From Key Topics**
 
-This portfolio is divided into modules and assignment folders representing the **entire course**:
+Personal notes summarizing:
+
+* Python fundamentals
+* GenAI concepts
+* Data manipulation
+* Industry use cases
+* Core AI ideas
 
 ---
 
-## 📁 **Module 01 – Introduction to Generative AI**
+### 🔹 **5. Final PowerPoint Presentation**
 
-Includes my notes and understanding of:
+A clean, employer-ready **5-slide deck** that includes:
+
+* My introduction
+* Course highlights
+* My top projects
+* Real AI applications
+* Contact & GitHub link
+
+---
+
+# 🧠 **Key Learnings**
+
+Through this course, I gained strong abilities in:
+
+### ✔ Python Programming
+
+Loops, functions, file handling, string processing, async tasks.
+
+### ✔ Data Processing
+
+Cleaning, filtering, transforming, merging, and analyzing data.
+
+### ✔ NumPy & pandas
+
+Working with large datasets effectively.
+
+### ✔ Understanding Generative AI
+
+Text generation, summarization, translation, and more.
+
+### ✔ Using AI Tools
+
+Exploring LLM capabilities and simple prompt engineering.
+
+### ✔ Documentation & Presentation
+
+Organizing work professionally and presenting it clearly.
+
+---
+
+# 📘 **Module & Assignment Highlights**
+
+### 📁 **Module 01 – Introduction to Generative AI**
 
 * What AI is
-* LLMs and their capabilities
-* Types of GenAI tasks (summarization, translation, etc.)
+* LLM capabilities
 * Why AI matters for organizations
+* Real-world applications
 * Future of prompt engineering
-* How AI impacts real workplaces
 
 ---
 
-## 🐍 **Module 02–07 – Python Tutorials and Technical Assignments**
+### 🐍 **Python Modules (00 – 07)**
 
-These folders highlight my hands-on coding work, including:
+Each folder contains practical notebook exercises:
 
-### **File I/O**
+* FileIO
+* Strings
+* Async
+* HTTP/HTTPS
+* Databases
+* NumPy
+* pandas
 
-* Reading & writing files
-* Working with logs
-* Append vs write modes
-* Handling errors
-
-### **String Manipulation**
-
-* Slicing
-* Formatting
-* Cleaning text
-* Basic NLP preparation
-
-### **Async**
-
-* Running concurrent tasks
-* Simulating real-time operations
-
-### **HTTP/HTTPS**
-
-* Fetching API data
-* Understanding requests
-* JSON responses
-* How AI systems interact with external data
-
-### **Databases**
-
-* Reading/writing tables
-* Querying data
-* Understanding data storage
-
-### **NumPy**
-
-* Mathematical operations
-* Arrays
-* Vectorized calculations
-
-### **Pandas**
-
-* DataFrames
-* Cleaning data
-* Merging
-* Grouping
-* Exploratory data analysis
-
-These assignments show my foundational skills across multiple areas of Python and data processing.
+These demonstrate hands-on learning and real coding practice.
 
 ---
 
-## 🤖 **Applied AI Mini-Projects**
-
-Throughout the course, I completed small projects that combine Python + AI, such as:
+### 🤖 **Mini Applied AI Projects**
 
 * Text summarization
 * Sentiment analysis
-* Data exploration
-* Simple scoring/classification examples
-* Prompt-based AI tasks
-
-These demonstrate my ability to use Python for real AI workflows.
+* Simple Python-based AI workflows
+* NLP-style mini tasks
 
 ---
 
-# 🧠 **Key Learnings From the Entire Course**
-
-### ✔ Python is the foundation of all AI work
-
-I learned how to structure programs, write functions, manage files, and work with various Python modules.
-
-### ✔ Data is the heart of AI
-
-Using NumPy and pandas taught me how to analyze, clean, and transform data — skills needed for machine learning.
-
-### ✔ GenAI is transforming industries
-
-Understanding LLM capabilities helped me see how AI is used in:
-
-* Healthcare
-* Education
-* Business automation
-* Customer service
-* Productivity tools
-
-### ✔ AI development requires organization
-
-This portfolio taught me how to document, present, and organize technical work in a professional manner.
-
----
-
-# 🗂️ **Repository Structure**
+## **Repository Structure**
 
 ```
 AI-Applications-Portfolio/
@@ -239,32 +235,57 @@ AI-Applications-Portfolio/
 │   ├── Data_Processing.md
 │
 ├── Resources/
-│
 └── Presentation/
 ```
 
 ---
 
-# 🎓 **Purpose of This Portfolio**
+# 💼 **Skills Demonstrated**
 
-✔ To showcase my skills
-✔ To present my learning journey
-✔ To demonstrate organization and professionalism
-✔ To prepare for internships or AI-related roles
-✔ To serve as a foundation for future AI and ML projects
+* Python scripting
+* Data cleaning
+* Exploratory data analysis
+* Basic AI workflows
+* NumPy & pandas proficiency
+* Using APIs
+* Working with files & databases
+* Documentation writing
+* Presentation creation
+
+---
+
+# 🛠 **Tools & Technologies**
+
+* Python
+* Jupyter Notebooks
+* Google Colab
+* NumPy
+* pandas
+* Markdown
+* Git & GitHub
+* Basic AI/GenAI tools
+
+---
+
+# 🚀 **Future Improvements**
+
+I plan to grow this portfolio by adding:
+
+* More AI mini-projects
+* Machine learning models
+* Small NLP projects
+* Data dashboards
+* More visualizations
+* Extra notebooks
 
 ---
 
 # 📬 **Contact**
 
 * **Name:** Williane Yarro
-* **School:** Houston Community College (HCC)
+* **School:** Houston Community College
 * **GitHub:** [https://github.com/joelleyarro03/AI-Applications-Portfolio-](https://github.com/joelleyarro03/AI-Applications-Portfolio-)
-* **Email:** *(joelleyarro@gmail.com)*
+* **Email:** *(joelleyarro@yahoo.com.com)*
 
 ---
-
-
-
-
 
